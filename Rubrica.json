@@ -1,0 +1,41 @@
+{
+  "Rubrica": 
+  [
+    {
+      "Nome": "Alex",
+      "Cognome": "DeLarge",
+      "Telefono": "123456789",
+      "E-mail": "ludovicovan@korova.com"
+    },
+    {
+      "Nome": "Bianca",
+      "Cognome": "Balasca",
+      "Telefono": "39490384309",
+      "E-mail": "bianca.balasca@epicode.com"
+    },
+    {
+      "Nome": "Raffaele",
+      "Cognome": "De Stefano",
+      "Telefono": "39823283",
+      "E-mail": "raffaele.destefano@epicode.com"
+    },
+     {
+      "Nome": "Mahmoudi",
+      "Cognome": "Hamza",
+      "Telefono": "390483943",
+      "E-mail": "mahmoudi.hamza@epicode.com"
+    },
+     {
+      "Nome": "Vidalle",
+      "Cognome": "De Stefano",
+      "Telefono": "329329329",
+      "E-mail": "vidalle.newgep@epicode.com"
+    },
+     {
+      "Nome": "Carlo",
+      "Cognome": "Testa",
+      "Telefono": "3943943939",
+      "E-mail": "carlo.testa@epicode.com"
+    },
+  ]
+}

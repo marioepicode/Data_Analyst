@@ -1,0 +1,30 @@
+
+{
+  "corso": {
+    "unit": [
+      {
+        "numero": 1,
+        "titolo": "Fundamentals"
+      },
+        
+      {
+        "numero": 2,
+        "titolo": "Introduzione a Pyton"
+      },
+      {
+        "numero": 3,
+        "titolo": "POWERBI"
+      }
+    ],
+
+},
+    "organizzatore": {
+      "nome": "EPICODE",
+      "indirizzo": {
+        "via": "Via dei Magazzini Generali, 16",
+        "città": "Roma",
+        "cap": "00154"
+      }
+    }
+  
+}
