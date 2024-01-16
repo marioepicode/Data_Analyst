@@ -1,0 +1,100 @@
+studenti = 25
+
+print(studenti)
+
+
+nuovi_studenti = 3
+
+
+tot_studenti=(studenti+nuovi_studenti)
+
+print(tot_studenti)
+
+azienda = 'Epicode'
+print(azienda)
+
+numeri = [0, 1, 2, 3, 4, 5]
+print(numeri)
+
+nome_scuola = "Epicode"
+iniziale = nome_scuola[0]
+print(iniziale)
+
+
+nome_scuola = "Epicode"
+prime_tre_lettere = nome_scuola[:3]
+print(prime_tre_lettere)
+
+
+x = 10
+x = x+2
+x = x*3
+print(x)
+
+
+x = 10
+x += 2
+x *= 3
+print(x)
+
+
+inserimento = input()
+
+inizio = inserimento[:3]
+fine = inserimento[-3:]
+
+output = inizio + "..." + fine
+print("Output:", output)
+
+
+
+a = "Windows"
+b = "Excel"
+c = "Powerpoint"
+d = "Word"
+
+an = len(a)
+bn = len(b)
+cn = len(c)
+dn = len(d)
+
+print(an)
+print(bn)
+print(cn)
+print(dn)
+
+inp1 = input()
+inp2 = input()
+num1 = int(inp1)
+num2 = int(inp2)
+ris = num1 + num2
+print(ris)
+
+
+parola1 = input()
+parola2 = input()
+parola3 = input()
+
+output1 = parola1.upper()
+output2 = parola2.lower()
+output3 = parola3.capitalize()
+
+print(output1)
+print(output2)
+print(output3)
+
+concatenazione = output1[:3] + output2[:3] + output3[:3]
+print(primi_caratteri)
+
+
+
+parola1 = input()
+parola2 = input()
+parola3 = input()
+
+output1 = len(parola1)
+output2 = len(parola2)
+output3 = len(parola3)
+
+risultato= output1*output2*output3
+print(risultato)
