@@ -3,7 +3,7 @@ import plotly.express as px
 
 
 #dataframe europa casi covid
-data = pd.read_csv('data.csv')
+data = pd.read_csv('dataEuropa.csv')
 
 #convertito valori 'dataRep' in formato datetime
 data['dateRep'] = pd.to_datetime(data['dateRep'], format='%d/%m/%Y')
