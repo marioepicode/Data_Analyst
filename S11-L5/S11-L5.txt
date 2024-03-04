@@ -1,0 +1,15 @@
+Datasets:
+
+TikTok:
+https://docs.google.com/spreadsheets/d/1Ou-CPu2pXEFG9l-RP1vv5yIvWhj3LC-IpGLOOQlWzmY
+Lingue:
+https://docs.google.com/spreadsheets/d/10Zunqn8N3oxhTK_L79zSIRpB9oOLuuuknGKs85bdxh4
+
+Report:
+https://lookerstudio.google.com/s/oObcnfB7W6Q
+
+Premessa: Il seguente lavoro è stato limitato da problemi legati alla lentezza del programma. In pratica, ho dovuto aggiornare la pagina centinaia di volte e anche scrivere una sola parola ha richiesto molto tempo. Anche lo spostamento dei grafici è stato molto complesso perché ad ogni movimento dei grafici la pagina si bloccava, richiedendo l'aggiornamento della scheda di Chrome.
+
+Sono stati registrati dall'inizio del corso i dati relativi all'utilizzo dell'app di TikTok. I dati sono stati annotati in un file Excel ricopiandoli dal tool dell'applicazione che registra il tempo trascorso sull'app. Non ci sono periodi in cui i dati non sono stati annotati, quindi l'analisi fatta è del tutto basata su dati reali. (Si fa presente che inizialmente avevo pensato di analizzare i dati su un sensore montato sulla porta del frigorifero per misurarne il numero di aperture e la loro durata, ma ho desistito per i seguenti motivi: il sensore registrava la durata dell'apertura porta con un leggero ritardo, rendendo la misurazione non precisa; ho decisamente sottostimato il numero di volte in cui il frigorifero viene aperto quotidianamente e il ricopiare i dati a mano avrebbe richiesto tantissime ore di lavoro in quanto l'applicazione non dà la possibilità di esportare i dati). La motivazione tecnica di scegliere questi dati è dovuta al fatto che l'app di TikTok registra i dati delle ultime 4 settimane, questo mi ha permesso di avere tutti i dati senza periodi vuoti anche se ho aggiornato il file a cadenza bisettimanale. La motivazione invece per quanto riguarda l'analisi è dovuta al fatto che trascorro molto tempo su questa app, e questa è stata la giusta occasione per quantificare il tempo sprecato. Per la visualizzazione dei dati ho scelto un grafico temporale per vedere l'andamento di utilizzo dell'app; grafici a scheda per visualizzare Media minuti di giorno, di notte e totale. Ho inoltre utilizzato le schede per visualizzare le ore totali divise per giorno, notte e totale. Con un grafico ad anello ho invece evidenziato la percentuale di utilizzo dell'app in base al giorno della settimana.
+
+A questo punto, per sensibilizzare ulteriormente me stesso, ho aggiunto un nuovo dataset dove è quantificato il numero di ore necessarie per imparare una nuova lingua per un madrelingua italiano. Ho poi aggiunto un nuovo campo calcolato con Looker Studio, dove ho diviso il numero di ore necessarie per imparare una lingua per il numero medio di ore trascorse su TikTok, in modo da avere un grafico a barre che indica in quanti giorni potrei imparare una nuova lingua se usassi il tempo sprecato su TikTok utilizzando un'app per l'apprendimento delle lingue.
