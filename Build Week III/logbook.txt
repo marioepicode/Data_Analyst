@@ -1,0 +1,17 @@
+- selezionato il dataset
+- pulito il dataset
+- creato grafico a mappa con IQ medio
+- creato grafico con IQ per continente
+- creata mappa di correlazione con script Python
+- creato grafico a barre con script python per visualizzare la nazione con IQ maggiore per ogni continente
+- è stata aggiunta una nuova colonna che moltiplica IQ medio*Popolazione e divide per popolazione del continente
+- è stata aggiunta una nuova colonna che moltiplica IQ medio*Popolazione e divide per popolazione totale
+- creato grafico che mostra IQ medio per nazione con la possibilità di filtrare per continente
+- creato grafico che mostra il numero di premi nobel
+- creata una nuova misura che divide i premi nobel per la popolazione e aggiunto un grafico
+- importato una nuova tabella dal web con i dati delle temperature per nazione, è stato pulito e sono stati adeguati i nomi delle Nazioni per permettere il merge
+- importato una nuova tabella dal web con i dati delle precipitazioni per nazione, è stato pulito e sono stati adeguati i nomi delle Nazioni per permettere il merge
+- Scaricato un nuovo dataset con i dati delle radiazioni UV per nazion, è stato pulito e sono stati adeguati i nomi delle Nazioni per permettere il merge
+- unito i dati della temperatura, delle precipitazioni, delle rediazioni UV e dell'IQ con powerquery 
+- creato una matrice di correlazione tra IQ, Temperature, Precipitazioni e radiazioni UV
+- creato una nuova colonna che indica se una nazione ha un IQ maggiore o minore della media mondiale
